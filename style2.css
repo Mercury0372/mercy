@@ -1,0 +1,31 @@
+form {
+    margin-left: 450px;
+    margin-right: 450px;
+}
+input {
+    height: 60px; width: 500px;
+}
+.bb {
+    background-color:#0092fa ;
+    border-radius: 20px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+.inst {
+    max-width: 100%;
+    margin-left: 530px;
+    margin-right: 530px;
+    margin-bottom: 60px;
+    margin-top: 30px;
+}
+.ff{
+    font-size: 20px;
+}
+.ss {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.rr{
+    margin-left: 670px;
+}
